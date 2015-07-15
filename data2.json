@@ -1,0 +1,9 @@
+[{"name":"Hotel Awesome","url":"http://www.google.com","place":"100 Awesome Street","ltt":43.65295,"lgt":-79.38118,"cat":"stay"},
+{"name":"Art Theatre","url":"http://www.google.com","place":"100 Metropolitan Avenue","ltt":43.65573,"lgt":-79.38218,"cat":"play"},
+{"name":"Sketchy Motel","url":"http://www.google.com","place":"100 Seedy Lane","ltt":43.65763,"lgt":-79.38318,"cat":"stay"},
+{"name":"Bigname Department Store","url":"http://www.google.com","place":"100 Macy's Drive","ltt":43.65754,"lgt":-79.38418,"cat":"shop"},
+{"name":"Dinosaur Museum","url":"http://www.google.com","place":"100 Raptor Road","ltt":43.65235,"lgt":-79.38518,"cat":"play"},
+{"name":"Lame Fast Food","url":"http://www.google.com","place":"100 McDonald Alley","ltt":43.65763,"lgt":-79.38618,"cat":"eat"},
+{"name":"Boutique Shop","url":"http://www.google.com","place":"100 Vintage Avenue","ltt":43.65126,"lgt":-79.38818,"cat":"shop"},
+{"name":"The Last Library","url":"http://www.google.com","place":"100 Reading Road","ltt":43.65953,"lgt":-79.38918,"cat":"community"},
+{"name":"Community Rec Center","url":"http://www.google.com","place":"100 Swimming Lane","ltt":43.65736,"lgt":-79.38018,"cat":"community"}]
